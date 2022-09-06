@@ -1,0 +1,13 @@
+what are technologies u have learnt in past 6 months?
+insert/replace a bit at particular position?
+linked list syntax?
+linked list insertion?
+questions based on given program linked list question? 
+function pointer?
+pointer related questions like size?
+how to find the size without using sizeof function?
+
+
+
+
+
